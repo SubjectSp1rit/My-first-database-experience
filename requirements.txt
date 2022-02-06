@@ -1,0 +1,9 @@
+Необходимые библиотеки:
+sys
+csv (0.1.1)
+sqlite3 (0.2.0)
+pygame (2.1.0)
+random: choice
+PyQt5 (5.15.4)
+PyQt5: QtGui, Uic, QtCore, QtWidgets
+PyQt5.QtWidgets:  QApplication, QWIdget, QPushButton, QTableWidgetItem, QLineEdit, QLabel, QTableWidget, QTextEdit, QMainWindow, QMessageBox
